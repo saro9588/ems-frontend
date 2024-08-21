@@ -1,8 +1,16 @@
-# React + Vite
+### Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the front-end of the Employee Managment System Spring boot demo app, it is built with react.
 
-Currently, two official plugins are available:
+### Project Set up
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Open Terminal
+2. mkdir new-folder
+3. npm create vite@latest ems-frontend
+4. cd ems-frontend
+5. npm intall
+6. npm run dev
+
+### Build Stack
+
+React, Vite, JS
